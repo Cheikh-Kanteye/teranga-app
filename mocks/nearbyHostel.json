@@ -1,0 +1,36 @@
+{
+  "hostels": [
+    {
+      "name": "Radisson blue",
+      "location": "Dakar Sea Plaza, Sénégal",
+      "currency": "XOF",
+      "price": 143.83,
+      "rating": 4,
+      "imageUrl": "https://i.pinimg.com/736x/7a/00/d9/7a00d980ba147cc17d2536ee7a6082e1.jpg"
+    },
+    {
+      "name": "Pullman Dakar Teranga",
+      "location": "Place de l'Independance, 10 Rue PL 29, Dakar 10200•",
+      "currency": "XOF",
+      "price": 176.03,
+      "rating": 4.3,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-proxy/AFm_dcTL0h3eC5c1g--e0Y5LPWuC0lR1CCzPVr4hze2svYrdHgOg_xDtX8aWv69lPZnBybVyZRmgdw_3oADqh665ByoTppn7-AoVJXCtsq-y1wnep_3YwySdMpXn-Vl_uYGvxcSGxeeMQScvc4bNnbDH_1A2krfeyiSr87GQOUOZ52B8wluCVnyhhRrD=w287-h192-n-k-no-v1-rj"
+    },
+    {
+      "name": "Hôtel Terrou-Bi",
+      "location": "Boulevard Martin Luther King Dakar, 11500",
+      "currency": "XOF",
+      "price": 301.664,
+      "rating": 4.5,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMEQJ5dJBhkbYW8FzBDO4NAvOUehKvtvUKJA12n=w287-h192-n-k-no-v1-rj"
+    },
+    {
+      "name": "King Fahd Place",
+      "location": "Rte des Almadies, Dakar",
+      "currency": "XOF",
+      "price": 143.41,
+      "rating": 4,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-proxy/AFm_dcT10CpfnWCGjwoDFEQqcB6hUpqrIwQEBfpTYkEspVEgMSo6SMJL-270mCaT4rHLtbGApk5yDZ3iWhzQtdmrRTRL7UNrIXhvea3_rM-SF475nB6L8KTcA4leury4VkMcnYUqW1Hth7QesZZ447I43qsAb0zmmw7VFnrhdJ6HlD-0JRpoqCvMNKvvdg=w287-h192-n-k-no-v1-rj"
+    }
+  ]
+}
